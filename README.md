@@ -2,6 +2,8 @@
 
 # Liens
 
+Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'IA
+
 ## n8n
 
 * https://github.com/Zie619/n8n-workflows
@@ -28,7 +30,7 @@
 
 * https://github.com/microsoft/TRELLIS.2
 
-## Politique / Ecologie
+## Enjeux politique / ecologie
 
 * https://www.youtube.com/watch?v=JFeCT7aiunE
     Sécheresse Au CHILI (Datacenters)
