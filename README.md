@@ -6,9 +6,9 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 
 ## n8n
 
-* https://github.com/Zie619/n8n-workflows
+* https://github.com/Zie619/n8n-workflows  4000 template de flux gratos
 * https://korben.info/n8n-workflows-collection-4000-automatisations-gith.html
-* https://zie619.github.io/n8n-workflows/
+* https://zie619.github.io/n8n-workflows/ 4000 template de flux gratos
 
 ## Machine Learning
 
