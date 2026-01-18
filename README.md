@@ -10,6 +10,7 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://korben.info/n8n-workflows-collection-4000-automatisations-gith.html
 * https://zie619.github.io/n8n-workflows/ 4000 template de flux gratos
 * https://github.com/n8n-io/self-hosted-ai-starter-kit/tree/main
+https://github.com/claraverse-space/ClaraVerse
 
 ## Machine Learning
 
