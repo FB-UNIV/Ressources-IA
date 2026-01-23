@@ -28,6 +28,13 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://mcphubx.com/
 * https://glama.ai/mcp
 
+## RAG
+
+* https://www.firecrawl.dev/
+* https://ollama.com/library/nomic-embed-text
+* https://qdrant.tech/
+* https://pypi.org/project/markdownify/
+
 ## Imagerie IA
 
 * https://github.com/microsoft/TRELLIS.2
