@@ -34,6 +34,7 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://ollama.com/library/nomic-embed-text
 * https://qdrant.tech/
 * https://pypi.org/project/markdownify/
+* https://fess.codelibs.org
 
 ## Imagerie IA
 
