@@ -35,6 +35,7 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://qdrant.tech/
 * https://pypi.org/project/markdownify/
 * https://fess.codelibs.org
+* https://www.francenum.gouv.fr/guides-et-conseils/intelligence-artificielle/recherche-intelligente-et-analyse-documentaire-0
 
 ## Imagerie IA
 
