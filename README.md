@@ -39,6 +39,10 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://huggingface.co/dangvantuan/sentence-camembert-large
 * https://huggingface.co/BAAI/bge-m3
 * https://trafilatura.readthedocs.io/en/latest/quickstart.html (Librairie Python pour scraper des sites)
+* https://blog.stephane-robert.info/docs/developper/programmation/python/traitement-texte/
+* https://blog.stephane-robert.info/docs/developper/programmation/python/rag-introduction/
+* https://blog.stephane-robert.info/docs/developper/programmation/python/trafilatura/
+* https://blog.stephane-robert.info/docs/developper/programmation/python/generative-engine_optimisation/
 
 ## Imagerie IA
 
