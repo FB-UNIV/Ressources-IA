@@ -36,6 +36,8 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://pypi.org/project/markdownify/
 * https://fess.codelibs.org
 * https://www.francenum.gouv.fr/guides-et-conseils/intelligence-artificielle/recherche-intelligente-et-analyse-documentaire-0
+* https://huggingface.co/dangvantuan/sentence-camembert-large
+* https://huggingface.co/BAAI/bge-m3
 
 ## Imagerie IA
 
