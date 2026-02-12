@@ -15,6 +15,7 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 ## Machine Learning
 
 * https://github.com/microsoft/ML-For-Beginners
+* https://developers.google.com/machine-learning/crash-course/embeddings/embedding-space?hl=fr
 
 ## Applis Chat
 
