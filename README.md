@@ -56,3 +56,4 @@ Liste plus ou moins ordonée de ressource technique (ou pas) sur le sujet de l'I
 * https://www.youtube.com/watch?v=1CrjyQvV3nE
     Stupid Economics la bulle spéculative de l'IA
 * https://video.blast-info.fr/w/iWq6ze3hEw3AUmbsV5so86 (IA et capitalisme) 
+* https://youtu.be/_bP80DEAbuo?si=M2DCIVXvDvKQT3sZ (Les sons nocifs des datacenters)
